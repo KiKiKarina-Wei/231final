@@ -1,0 +1,7 @@
+strategy,cum_return,ann_return,ann_vol,sharpe,max_drawdown,win_rate
+"Momentum(AAPL,20d)",0.3934,0.0834,0.1754,0.5437,-0.1975,0.296
+"MeanReversion(AAPL,20d,z>1.0)",0.3662,0.0782,0.1682,0.5302,-0.2361,0.1226
+"SMACross(AAPL,20/50)",0.0463,0.011,0.1725,0.1494,-0.2884,0.2787
+"RSI(AAPL,14d,buy<30)",0.4897,0.101,0.2177,0.5497,-0.299,0.249
+"BollingerBreakout(AAPL,20d,k=2.0)",0.1309,0.0301,0.178,0.2553,-0.2065,0.2835
+BuyHold(AAPL),0.4776,0.0988,0.2822,0.4743,-0.3343,0.5297

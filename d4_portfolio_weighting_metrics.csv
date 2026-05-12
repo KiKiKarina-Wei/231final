@@ -1,0 +1,4 @@
+strategy,cum_return,ann_return,ann_vol,sharpe,max_drawdown,win_rate
+EqualWeight(SMA20>50),0.621,0.1237,0.198,0.6882,-0.3228,0.5345
+"InverseVol(SMA20>50,vol60d)",0.4203,0.0884,0.1688,0.5864,-0.2852,0.5297
+EW_Universe(passive),0.8813,0.1648,0.2184,0.8074,-0.2505,0.5335
