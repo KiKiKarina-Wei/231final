@@ -1,0 +1,5 @@
+strategy,cum_return,ann_return,ann_vol,sharpe,max_drawdown,win_rate
+BM1_SMACross(20/50),0.621,0.1237,0.198,0.6882,-0.3228,0.5345
+"BM2_TopK_Mom(30d,K=10)",1.859,0.2886,0.2888,1.0229,-0.3607,0.5307
+"NEW1_TopKLongMomInvVol(L90,K8)",4.0456,0.478,0.3025,1.4435,-0.3047,0.5594
+"NEW2_RegimeMom(L60,K10,50/200)",2.8394,0.3837,0.2643,1.3615,-0.3028,0.4023
